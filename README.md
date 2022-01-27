@@ -1,5 +1,5 @@
 # Text_Classification
-# _____________________________________________________________
+# ________________________________________________________________
 # Classifying Artist's lyrics using Supervised Machine Learning
 
 ## Steps:
