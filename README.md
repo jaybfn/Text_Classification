@@ -2,6 +2,8 @@
 # ________________________________________________________________
 # Classifying Artist's lyrics using Supervised Machine Learning
 
+![alt picture](https://github.com/jaybfn/Text_Classification/blob/main/Flowchart.jpg)
+
 ## Steps:
 ### 1. In this project I am extracting lyrics of 6 artists ['Eminem','Jay-Z','Justin-Timberlake','50-Cent','Bob-Marley','Michael-Jackson'] from lyrics.com (# of artist can be          any length) and classify using Supervised Machine Learning Models.
 
