@@ -1,5 +1,5 @@
 # Text_Classification
-# ________________________________________________________________
+# ______________________________________________________________
 # Classifying Artist's lyrics using Supervised Machine Learning
 
 ![alt picture](https://github.com/jaybfn/Text_Classification/blob/main/Flowchart.jpg)
