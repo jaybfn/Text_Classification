@@ -1,10 +1,9 @@
-                                                                      # Text_Classification
-# _____________________________________________________________________________________________________________________________________________________________________________
-
+# Text_Classification
+# __________________________________________________________________
 # Classifying Artist's lyrics using Supervised Machine Learning
 
 ## Steps:
-### 1. In this project I am extracting lyrics of 6 artists ['Eminem','Jay-Z','Justin-Timberlake','50-Cent','Bob-Marley','Michael-Jackson'] from lyrics.com (# of artist can be any length) and classify using Supervised Machine Learning Models.
+### 1. In this project I am extracting lyrics of 6 artists ['Eminem','Jay-Z','Justin-Timberlake','50-Cent','Bob-Marley','Michael-Jackson'] from lyrics.com (# of artist can be          any length) and classify using Supervised Machine Learning Models.
 
 ### 2. In this project I have two python scripts ‘cli_get_lyrics.py’and‘Lyrics_Classification_RFC_25Dec2021’
 
