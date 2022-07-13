@@ -52,4 +52,4 @@
   * folders = ['Eminem','Jay-Z','Justin-Timberlake','50-Cent','Bob-Marley','Michael-Jackson']
   * base_url = r"Paste your file path here"
 
-### 6. It is important to know that this model is optimized for the above artists only. Feel free to to optimize while using different artists.
+### 6. It is important to know that this model is optimized for the above artists only. Feel free to optimize while using different artists.
